@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Samuvel Johnson</h1>
+  <h1>Hi i'm SAM </h1>
   <h3>Full-Stack Developer | Web Application Architect | Drone Technology Enthusiast</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=samuveljohnson1416&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
