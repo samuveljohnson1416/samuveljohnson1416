@@ -10,6 +10,12 @@
 
 ---
 
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/samuveljohnson1416/samuveljohnson1416/main/iron-man-marvel-superheroes-amoled-pitch-black-minimal-art-3840x2160-6293.png" alt="Banner" width="100%" style="max-width: 100%; border-radius: 10px;"/>
+</div>
+
 ## ⚡ About Me
 
 I'm a **Full-Stack Developer** passionate about building scalable web applications and exploring innovative technologies. My expertise spans modern web development, cloud infrastructure, IoT systems, and cutting-edge drone technology. I love solving complex problems and turning ideas into reality through code.
@@ -60,10 +66,7 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samuveljohnson1416&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuveljohnson1416&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=samuveljohnson1416&theme=neon&hide_border=false" alt="GitHub Streak" />
