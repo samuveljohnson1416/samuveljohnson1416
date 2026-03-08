@@ -6,6 +6,10 @@
   </p>
 </div>
 
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=samuveljohnson1416&icon=0&color=0" alt="Visit Count" />
+</div>
 ---
 
 ## 💫 About Me
@@ -69,15 +73,13 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 
 ---
 
-## 📍 Featured Quote
+##  Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
-
-## 🤝 Connect With Me
 
 <div align="center">
   <p>Feel free to reach out for collaboration, discussions about technology, or exciting opportunities!</p>
