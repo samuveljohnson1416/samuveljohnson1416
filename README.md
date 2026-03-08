@@ -7,22 +7,20 @@
 </div>
 
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=samuveljohnson1416&icon=0&color=0" alt="Visit Count" />
-</div>
+
 ---
 
-## 💫 About Me
+## ⚡ About Me
 
 I'm a **Full-Stack Developer** passionate about building scalable web applications and exploring innovative technologies. My expertise spans modern web development, cloud infrastructure, IoT systems, and cutting-edge drone technology. I love solving complex problems and turning ideas into reality through code.
 
 ### 🎯 What I Specialize In
 - 🌐 **Full-Stack Web Development** - Building robust backend systems and responsive frontends
-- ☁️ **Cloud Solutions** - AWS, Firebase, and cloud-native applications
-- 📱 **Cross-Platform Development** - React, React Native, Flutter
+- ☁️ **Cloud Solutions** - AWS, Firebase
+- 📱 **Cross-Platform Development** - React, Flutter
 - 🤖 **IoT & Hardware** - Arduino, Raspberry Pi, embedded systems
 - 🚁 **Drone Technology** - Autonomous systems and innovative applications
-- 🔧 **Backend Architecture** - Spring Boot, Node.js, microservices
+- 🔧 **Backend Architecture** - Spring Boot, Node.js.
 
 ---
 
