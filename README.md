@@ -84,6 +84,5 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 
 <div align="center">
   <p>Feel free to reach out for collaboration, discussions about technology, or exciting opportunities!</p>
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
