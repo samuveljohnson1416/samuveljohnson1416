@@ -9,13 +9,6 @@
 
 
 ---
-
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/samuveljohnson1416/samuveljohnson1416/main/iron-man-marvel-superheroes-amoled-pitch-black-minimal-art-3840x2160-6293.png" alt="Banner" width="100%" style="max-width: 100%; border-radius: 10px;"/>
-</div>
-
 ## ⚡ About Me
 
 I'm a **Full-Stack Developer** passionate about building scalable web applications and exploring innovative technologies. My expertise spans modern web development, cloud infrastructure, IoT systems, and cutting-edge drone technology. I love solving complex problems and turning ideas into reality through code.
