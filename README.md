@@ -70,15 +70,8 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 
 ---
 
-<div align="center">
-  ## 📊 GitHub Statistics
-  <img src="https://nirzak-streak-stats.vercel.app/?user=samuveljohnson1416&theme=neon&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
-  ## Quote
   <p style="font-style:italic; font-size:1.05rem;">"I build with curiosity, engineer for reliability, and always aim to make ideas take flight."</p>
   <p style="margin-top:4px;">— SAM</p>
 </div>
