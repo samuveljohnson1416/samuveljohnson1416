@@ -8,7 +8,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
   </pre>
 
-  <h1>Hi, I'm SAM</h1>
+ 
   <h3>Full-Stack Developer | Web Application Architect | Drone Technology Enthusiast</h3>
 
   <p>
