@@ -1,3 +1,15 @@
+<div>
+  ███████╗ █████╗ ███╗   ███╗
+██╔════╝██╔══██╗████╗ ████║
+███████╗███████║██╔████╔██║
+╚════██║██╔══██║██║╚██╔╝██║
+███████║██║  ██║██║ ╚═╝ ██║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+                           
+</div>
+
+
+
 <div align="center">
   <h1>Hi i'm SAM </h1>
   <h3>Full-Stack Developer | Web Application Architect | Drone Technology Enthusiast</h3>
