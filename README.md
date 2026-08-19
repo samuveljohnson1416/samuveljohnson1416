@@ -79,7 +79,8 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 
 <div align="center">
   ## Quote
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <p style="font-style:italic; font-size:1.05rem;">"I build with curiosity, engineer for reliability, and always aim to make ideas take flight."</p>
+  <p style="margin-top:4px;">— SAM</p>
 </div>
 
 ---
