@@ -13,7 +13,7 @@
 
 <!-- PORTRAIT - dot-matrix render of a photo.
      Only keep this if you actually add assets/portrait.svg to the repo. -->
-<img src="assets/portrait.svg" width="300" alt="Samuvel Johnson, rendered as a dot matrix">
+<img src="image.svg" width="300" alt="Samuvel Johnson, rendered as a dot matrix">
 
 <br>
 
