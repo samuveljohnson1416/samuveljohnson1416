@@ -1,3 +1,11 @@
+
+<div align="center">
+
+<!-- PORTRAIT - dot-matrix render of a photo.
+     Only keep this if you actually add assets/portrait.svg to the repo. -->
+<img src="image.svg" width="300" alt="Samuvel Johnson, rendered as a dot matrix">
+
+<br>
 <div align="center">
   <pre style="font-family:monospace;line-height:1;margin:0;">
 ███████╗ █████╗ ███╗   ███╗
@@ -7,15 +15,7 @@
 ███████║██║  ██║██║ ╚═╝ ██║
 ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
   </pre>
----
 
-<div align="center">
-
-<!-- PORTRAIT - dot-matrix render of a photo.
-     Only keep this if you actually add assets/portrait.svg to the repo. -->
-<img src="image.svg" width="300" alt="Samuvel Johnson, rendered as a dot matrix">
-
-<br>
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/samuveljohnson1416">
