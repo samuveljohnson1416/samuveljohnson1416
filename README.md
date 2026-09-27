@@ -18,22 +18,23 @@
 
 ---
 
-<div align="center">
+---
 
-## ⚡ About Me
+## `~/` whoami
 
-I'm a **Full-Stack Developer** passionate about building scalable web applications and exploring innovative technologies. My expertise spans modern web development, cloud infrastructure, IoT systems, and autonomous drone systems.
+```console
+$ cat about.txt
+```
 
-### 🎯 What I Specialize In
-- 🌐 Full-Stack Web Development — Robust backends and responsive frontends  
-- ☁️ Cloud Solutions — AWS, Firebase  
-- 📱 Cross-Platform Development — React, Flutter  
-- 🤖 IoT & Hardware — Arduino, Raspberry Pi, embedded systems  
-- 🚁 Drone Technology — Autonomous systems and applications  
-- 🔧 Backend Architecture — Spring Boot, Node.js
+Hi, I'm **Samuvel Johnson**. I build full-stack apps that usually have an AI agent hiding somewhere inside,
+and small tools that do one job without eating your RAM.
 
-</div>
+- Currently building **[pixelpet](https://github.com/samuveljohnson1416/pixelpet)** and a **[multi-agent health diagnostics system](https://github.com/samuveljohnson1416/Multi-Model-Ai-Agent-For-Automated-Health-Diagnostics)**
+- Portfolio: **[samuveljohnson.me](https://samuveljohnson.me)**
+- Learning **AI agent orchestration + system design**
+- Fun fact: **when I'm not at a screen, I'm probably messing with an Arduino or trying to get a drone to fly itself.**
 
+<br>
 ---
 
 <div align="center">
